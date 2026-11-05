@@ -1,0 +1,5 @@
+Model,Train F1,Test F1,Gap
+Logistic Regression,0.6,0.609,-0.009
+KNN (K=1),0.997,0.519,0.478
+KNN (K=35),0.618,0.605,0.013
+KNN (K=3001),0.0,0.0,0.0
